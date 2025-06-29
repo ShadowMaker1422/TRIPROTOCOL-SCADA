@@ -1,0 +1,113 @@
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.exe.config
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.exe
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.pdb
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.AssemblyReference.cache
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Properties.Resources.resources
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.GenerateResource.cache
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.CoreCompileInputs.cache
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.exe
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.pdb
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\S7.Net.dll
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Buffers.dll
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Memory.dll
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Numerics.Vectors.dll
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\S7.Net.xml
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Buffers.xml
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Memory.xml
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Numerics.Vectors.xml
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Main.resources
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorCon.7942C194.Up2Date
+F:\InsideScada\Projects\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Motor_Faceplate.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.exe.config
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.exe
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\MotorControl.pdb
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\S7.Net.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Buffers.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Memory.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Numerics.Vectors.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\S7.Net.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Buffers.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Memory.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Numerics.Vectors.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.AssemblyReference.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Main.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Motor_Faceplate.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Properties.Resources.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.GenerateResource.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.CoreCompileInputs.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorCon.7942C194.Up2Date
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.exe
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.pdb
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\EasyModbus.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\EasyModbus.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\Code4Bugs.Utils.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\Newtonsoft.Json.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\bin\Debug\Newtonsoft.Json.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327\MotorControl\MotorControl\MotorControl\obj\Debug\MotorControl.Meter_Faceplate.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\MotorControl.exe.config
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\MotorControl.exe
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\MotorControl.pdb
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\BouncyCastle.Cryptography.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Code4Bugs.Utils.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\EasyModbus.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Newtonsoft.Json.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Client.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Configuration.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Core.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Security.Certificates.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\S7.Net.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Buffers.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Formats.Asn1.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Memory.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Numerics.Vectors.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.ValueTuple.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\BouncyCastle.Cryptography.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\EasyModbus.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Newtonsoft.Json.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Client.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Configuration.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Core.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\Opc.Ua.Security.Certificates.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\S7.Net.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Buffers.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Formats.Asn1.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Memory.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Numerics.Vectors.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\System.ValueTuple.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.csproj.AssemblyReference.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.Main.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.Meter_Faceplate.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.Motor_Faceplate.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.Properties.Resources.resources
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.csproj.GenerateResource.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.csproj.CoreCompileInputs.cache
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorCon.7942C194.Up2Date
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.exe
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\obj\Debug\MotorControl.pdb
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\ZedGraph.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\ZedGraph.xml
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\de\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\es\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\fr\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\hu\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\it\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\ja\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\pt\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\ru\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\sk\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\sv\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\tr\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MY JOB\HK242\THAC SY\EE5174-SCADA VA THIET KE HE THONG\BUOI 10\MotorControl_230327 _TESTOPC\MotorControl\bin\Debug\zh-tw\ZedGraph.resources.dll
